@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://superb-voice.com/sitemap.xml
