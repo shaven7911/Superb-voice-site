@@ -165,8 +165,6 @@ textarea{min-height:120px;resize:vertical}
 .doc h2{font-size:1.3rem;margin-top:2rem}
 .doc ul{padding-left:1.25rem}
 .doc li{margin-bottom:.35rem}
-.template-banner{background:#fff7e6;border:1.5px solid #f5b54a;color:#6b4300;border-radius:12px;padding:1rem 1.2rem;margin-bottom:2rem;font-size:.97rem}
-.template-banner strong{display:block;font-size:1.05rem;color:#5a3700}
 .updated{color:var(--muted);font-size:.95rem}
 
 /* Responsive */
@@ -228,7 +226,6 @@ textarea{min-height:120px;resize:vertical}
 .status.now{background:var(--teal-500);color:var(--navy-900)}
 .status.api{background:var(--teal-50);color:var(--teal-700)}
 .status.req{background:#eef2f7;color:#3b4b61}
-.int-disclaimer{margin-top:1.25rem;font-size:.88rem;color:var(--muted);max-width:900px}
 
 @media (max-width:960px){
   .chip-grid{grid-template-columns:repeat(3,1fr)}
